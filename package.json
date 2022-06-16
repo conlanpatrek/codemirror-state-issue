@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "parcel index.html --open"
+  },
+  "dependencies": {
+    "codemirror": "^6.0.0",
+    "parcel": "^2.6.0"
+  }
+}
